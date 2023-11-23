@@ -1,0 +1,11 @@
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\myApi\UnitTsts\obj\Debug\net6.0\UnitTsts.csproj.AssemblyReference.cache
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\myApi\UnitTsts\obj\Debug\net6.0\UnitTsts.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\myApi\UnitTsts\obj\Debug\net6.0\UnitTsts.AssemblyInfoInputs.cache
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\myApi\UnitTsts\obj\Debug\net6.0\UnitTsts.AssemblyInfo.cs
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\myApi\UnitTsts\obj\Debug\net6.0\UnitTsts.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_3\קראוס  מרים\Dotnet\myApi\UnitTsts\bin\Debug\net6.0\CoverletSourceRootsMapping
+Y:\Groups\Group_3\קראוס  מרים\Dotnet\myApi\UnitTsts\obj\Debug\net6.0\UnitTsts.csproj.AssemblyReference.cache
+Y:\Groups\Group_3\קראוס  מרים\Dotnet\myApi\UnitTsts\obj\Debug\net6.0\UnitTsts.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_3\קראוס  מרים\Dotnet\myApi\UnitTsts\obj\Debug\net6.0\UnitTsts.AssemblyInfoInputs.cache
+Y:\Groups\Group_3\קראוס  מרים\Dotnet\myApi\UnitTsts\obj\Debug\net6.0\UnitTsts.AssemblyInfo.cs
+Y:\Groups\Group_3\קראוס  מרים\Dotnet\myApi\UnitTsts\obj\Debug\net6.0\UnitTsts.csproj.CoreCompileInputs.cache

@@ -1,0 +1,109 @@
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\myApi\myApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\myApi\myApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\myApi\myApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\myApi\myApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\myApi\myApi\obj\Debug\net6.0\myApi.csproj.AssemblyReference.cache
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\myApi\myApi\obj\Debug\net6.0\myApi.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\myApi\myApi\obj\Debug\net6.0\myApi.AssemblyInfoInputs.cache
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\myApi\myApi\obj\Debug\net6.0\myApi.AssemblyInfo.cs
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\myApi\myApi\obj\Debug\net6.0\myApi.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\myApi\myApi\obj\Debug\net6.0\myApi.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\myApi\myApi\obj\Debug\net6.0\myApi.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\myApi\myApi\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\myApi\myApi\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\myApi\myApi\obj\Debug\net6.0\scopedcss\bundle\myApi.styles.css
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\myApi\myApi\obj\Debug\net6.0\myApi.dll
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\myApi\myApi\obj\Debug\net6.0\refint\myApi.dll
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\myApi\myApi\obj\Debug\net6.0\myApi.pdb
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\myApi\myApi\bin\Debug\net6.0\appsettings.Development.json
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\myApi\myApi\bin\Debug\net6.0\appsettings.json
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\myApi\myApi\bin\Debug\net6.0\myApi.exe
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\myApi\myApi\bin\Debug\net6.0\myApi.deps.json
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\myApi\myApi\bin\Debug\net6.0\myApi.runtimeconfig.json
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\myApi\myApi\bin\Debug\net6.0\myApi.dll
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\myApi\myApi\bin\Debug\net6.0\myApi.pdb
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\myApi\myApi\obj\Debug\net6.0\myApi.csproj.CopyComplete
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\myApi\myApi\obj\Debug\net6.0\myApi.genruntimeconfig.cache
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\myApi\myApi\obj\Debug\net6.0\ref\myApi.dll
+Y:\Groups\Group_3\קראוס  מרים\Dotnet\myApi\myApi\bin\Debug\net6.0\appsettings.Development.json
+Y:\Groups\Group_3\קראוס  מרים\Dotnet\myApi\myApi\bin\Debug\net6.0\appsettings.json
+Y:\Groups\Group_3\קראוס  מרים\Dotnet\myApi\myApi\bin\Debug\net6.0\myApi.exe
+Y:\Groups\Group_3\קראוס  מרים\Dotnet\myApi\myApi\bin\Debug\net6.0\myApi.deps.json
+Y:\Groups\Group_3\קראוס  מרים\Dotnet\myApi\myApi\bin\Debug\net6.0\myApi.runtimeconfig.json
+Y:\Groups\Group_3\קראוס  מרים\Dotnet\myApi\myApi\bin\Debug\net6.0\myApi.dll
+Y:\Groups\Group_3\קראוס  מרים\Dotnet\myApi\myApi\bin\Debug\net6.0\myApi.pdb
+Y:\Groups\Group_3\קראוס  מרים\Dotnet\myApi\myApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Groups\Group_3\קראוס  מרים\Dotnet\myApi\myApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\Group_3\קראוס  מרים\Dotnet\myApi\myApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\Group_3\קראוס  מרים\Dotnet\myApi\myApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\Group_3\קראוס  מרים\Dotnet\myApi\myApi\obj\Debug\net6.0\myApi.csproj.AssemblyReference.cache
+Y:\Groups\Group_3\קראוס  מרים\Dotnet\myApi\myApi\obj\Debug\net6.0\myApi.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_3\קראוס  מרים\Dotnet\myApi\myApi\obj\Debug\net6.0\myApi.AssemblyInfoInputs.cache
+Y:\Groups\Group_3\קראוס  מרים\Dotnet\myApi\myApi\obj\Debug\net6.0\myApi.AssemblyInfo.cs
+Y:\Groups\Group_3\קראוס  מרים\Dotnet\myApi\myApi\obj\Debug\net6.0\myApi.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_3\קראוס  מרים\Dotnet\myApi\myApi\obj\Debug\net6.0\myApi.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\Group_3\קראוס  מרים\Dotnet\myApi\myApi\obj\Debug\net6.0\myApi.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\Group_3\קראוס  מרים\Dotnet\myApi\myApi\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Groups\Group_3\קראוס  מרים\Dotnet\myApi\myApi\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Groups\Group_3\קראוס  מרים\Dotnet\myApi\myApi\obj\Debug\net6.0\scopedcss\bundle\myApi.styles.css
+Y:\Groups\Group_3\קראוס  מרים\Dotnet\myApi\myApi\obj\Debug\net6.0\myApi.csproj.CopyComplete
+Y:\Groups\Group_3\קראוס  מרים\Dotnet\myApi\myApi\obj\Debug\net6.0\myApi.dll
+Y:\Groups\Group_3\קראוס  מרים\Dotnet\myApi\myApi\obj\Debug\net6.0\refint\myApi.dll
+Y:\Groups\Group_3\קראוס  מרים\Dotnet\myApi\myApi\obj\Debug\net6.0\myApi.pdb
+Y:\Groups\Group_3\קראוס  מרים\Dotnet\myApi\myApi\obj\Debug\net6.0\myApi.genruntimeconfig.cache
+Y:\Groups\Group_3\קראוס  מרים\Dotnet\myApi\myApi\obj\Debug\net6.0\ref\myApi.dll
+E:\myApi\myApi\bin\Debug\net6.0\appsettings.Development.json
+E:\myApi\myApi\bin\Debug\net6.0\appsettings.json
+E:\myApi\myApi\bin\Debug\net6.0\myApi.exe
+E:\myApi\myApi\bin\Debug\net6.0\myApi.deps.json
+E:\myApi\myApi\bin\Debug\net6.0\myApi.runtimeconfig.json
+E:\myApi\myApi\bin\Debug\net6.0\myApi.dll
+E:\myApi\myApi\bin\Debug\net6.0\myApi.pdb
+E:\myApi\myApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\myApi\myApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\myApi\myApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\myApi\myApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\myApi\myApi\obj\Debug\net6.0\myApi.csproj.AssemblyReference.cache
+E:\myApi\myApi\obj\Debug\net6.0\myApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\myApi\myApi\obj\Debug\net6.0\myApi.AssemblyInfoInputs.cache
+E:\myApi\myApi\obj\Debug\net6.0\myApi.AssemblyInfo.cs
+E:\myApi\myApi\obj\Debug\net6.0\myApi.csproj.CoreCompileInputs.cache
+E:\myApi\myApi\obj\Debug\net6.0\myApi.MvcApplicationPartsAssemblyInfo.cs
+E:\myApi\myApi\obj\Debug\net6.0\myApi.MvcApplicationPartsAssemblyInfo.cache
+E:\myApi\myApi\obj\Debug\net6.0\staticwebassets.build.json
+E:\myApi\myApi\obj\Debug\net6.0\staticwebassets.development.json
+E:\myApi\myApi\obj\Debug\net6.0\scopedcss\bundle\myApi.styles.css
+E:\myApi\myApi\obj\Debug\net6.0\myApi.csproj.CopyComplete
+E:\myApi\myApi\obj\Debug\net6.0\myApi.dll
+E:\myApi\myApi\obj\Debug\net6.0\refint\myApi.dll
+E:\myApi\myApi\obj\Debug\net6.0\myApi.pdb
+E:\myApi\myApi\obj\Debug\net6.0\myApi.genruntimeconfig.cache
+E:\myApi\myApi\obj\Debug\net6.0\ref\myApi.dll
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\my api with test\myApi\bin\Debug\net6.0\appsettings.Development.json
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\my api with test\myApi\bin\Debug\net6.0\appsettings.json
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\my api with test\myApi\bin\Debug\net6.0\myApi.exe
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\my api with test\myApi\bin\Debug\net6.0\myApi.deps.json
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\my api with test\myApi\bin\Debug\net6.0\myApi.runtimeconfig.json
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\my api with test\myApi\bin\Debug\net6.0\myApi.dll
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\my api with test\myApi\bin\Debug\net6.0\myApi.pdb
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\my api with test\myApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\my api with test\myApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\my api with test\myApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\my api with test\myApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\my api with test\myApi\obj\Debug\net6.0\myApi.csproj.AssemblyReference.cache
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\my api with test\myApi\obj\Debug\net6.0\myApi.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\my api with test\myApi\obj\Debug\net6.0\myApi.AssemblyInfoInputs.cache
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\my api with test\myApi\obj\Debug\net6.0\myApi.AssemblyInfo.cs
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\my api with test\myApi\obj\Debug\net6.0\myApi.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\my api with test\myApi\obj\Debug\net6.0\myApi.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\my api with test\myApi\obj\Debug\net6.0\myApi.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\my api with test\myApi\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\my api with test\myApi\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\my api with test\myApi\obj\Debug\net6.0\scopedcss\bundle\myApi.styles.css
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\my api with test\myApi\obj\Debug\net6.0\myApi.csproj.CopyComplete
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\my api with test\myApi\obj\Debug\net6.0\myApi.dll
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\my api with test\myApi\obj\Debug\net6.0\refint\myApi.dll
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\my api with test\myApi\obj\Debug\net6.0\myApi.pdb
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\my api with test\myApi\obj\Debug\net6.0\myApi.genruntimeconfig.cache
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\my api with test\myApi\obj\Debug\net6.0\ref\myApi.dll
+Y:\Groups\Group_3\קלויזנר  שרה לאה\Dotnet\my api with test\myApi\bin\Debug\net6.0\ServiceStack.Text.dll
